@@ -1,4 +1,4 @@
-
+<img src="https://github.com/linepau31/linepau31/blob/main/Pauline.png">
 
 ### 👋 Bonjour Visiteur !
 
