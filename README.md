@@ -3,56 +3,69 @@
 <p>
   Je m'appelle Pauline, jeune femme motivée qui se lance dans le Développement web. </br>  
   En formation de Mai 2021 à Février 2022 de Conceptrice Développeuse d'Application sur Toulouse 🇫🇷 </br>  
-  Envie d'apprendre, tester eT de partager mes connaissances avec les autres.
+  Envie d'apprendre, tester et de partager mes connaissances avec les autres.
 </p>  
-<p align='center'>
-  <a href="https://www.linkedin.com/in/pauline-marot-5276551ba/"><img height="24"></a>
-  <a href="https://twitter.com/emichel_dev"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/e.micheldev/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="mailto:pauline.marot2@outlook.fr"><img height="24" src=""></a>
- 
-</p>
-  </b> 
- ✯ Languages   
+
+<h2>✯ Front end</h2>
  
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) 
-![BOOTSTRAP](https://img.shields.io/badge/bootstrap-logo.png?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+<h2> ✯ Back end</h2>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-<!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
-<hr>
- ✯ Frameworks & Libraries
+![Symfony](https://img.shields.io/badge/Synfony-EF2D5E?style=for-the-badge&logo=symfony&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![phpmyadmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Wamp](https://img.shields.io/badge/wampserver-FB7A24?style=for-the-badge&logo=wampserver&logoColor=000000)
 
-<!--![Vue.js](https://img.shields.io/badge/vue.svg?style=for-the-badge&logo=dart&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!--
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)-->
-<hr>
- ✯ Design
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+-->
 
+ <h2>✯ Design</h2>
+
+![Adobe XD](https://img.shields.io/badge/adobexd-FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=000000)
+![Photopea](https://img.shields.io/badge/photopea-18A497.svg?style=for-the-badge&logo=photopea&logoColor=000000)
 <!--![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)-->
-<hr>
- ✯ Version Control
+
+ <h2>✯ Version Control</h2>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Gitea](https://img.shields.io/badge/gitea-609926.svg?style=for-the-badge&logo=gitea&logoColor=white)
 <!--![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)-->
-<hr>
 
- ✯ IDEs & Editors
+
+ <h2>✯ IDEs & Editors</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!--![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)-->
-<hr>
- ✯ Social 👥
+![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
-[![Linkedin](https://img.shields.io/badge/-Pauline-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pauline-marot-5276551ba/)
+
+<h2>✯ OS</h2>
+
+![Debian](https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<h2> ✯ Social 👥</h2>
+ 
+[![Linkedin](https://img.shields.io/badge/-Pauline-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pauline-marot-5276551ba/) 
 ![Discord](https://img.shields.io/badge/pauline%234127-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+[![CV](https://img.shields.io/badge/CV-0ABF53?style=for-the-badge&logo=docusign&logoColor=000000)](https://cvdesignr.com/p/602e4c10419f8)
+[![SiteCV](https://img.shields.io/badge/Site%20CV-FF9E0F?style=for-the-badge&logo=docusign&logoColor=000000)](https://linepau31.github.io/)
+
+
+![Linepau GitHub stats](https://github-readme-stats.vercel.app/api?username=linepau31&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linepau31&layout=compact&theme=radical)](https://github.com/linepau31/github-readme-stats)
+
