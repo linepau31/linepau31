@@ -1,3 +1,5 @@
+
+
 ### 👋 Bonjour Visiteur !
 
 <p>
@@ -62,6 +64,8 @@
 [![Linkedin](https://img.shields.io/badge/-Pauline-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/pauline-marot-5276551ba/) 
 ![Discord](https://img.shields.io/badge/pauline%234127-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+[![codePen](https://img.shields.io/badge/codepen-025E8C?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/linepau31)
+
 [![CV](https://img.shields.io/badge/CV-0ABF53?style=for-the-badge&logo=docusign&logoColor=000000)](https://cvdesignr.com/p/602e4c10419f8)
 [![SiteCV](https://img.shields.io/badge/Site%20CV-FF9E0F?style=for-the-badge&logo=docusign&logoColor=000000)](https://linepau31.github.io/)
 
