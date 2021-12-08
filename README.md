@@ -37,7 +37,7 @@
 
  <h2>✯ Design</h2>
 
-![Adobe XD](https://img.shields.io/badge/adobexd-FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=000000)
+![Adobe XD](https://img.shields.io/badge/adobe%20xd-FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=000000)
 ![Photopea](https://img.shields.io/badge/photopea-18A497.svg?style=for-the-badge&logo=photopea&logoColor=000000)
 <!--![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)-->
 
