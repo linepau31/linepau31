@@ -21,7 +21,7 @@
 <h2> ✯ Back end</h2>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Synfony-EF2D5E?style=for-the-badge&logo=symfony&logoColor=000000)
+![Symfony](https://img.shields.io/badge/Symfony-EF2D5E?style=for-the-badge&logo=symfony&logoColor=000000)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpmyadmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Wamp](https://img.shields.io/badge/wampserver-FB7A24?style=for-the-badge&logo=wampserver&logoColor=000000)
