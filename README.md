@@ -52,7 +52,7 @@
  <h2>✯ IDEs & Editors</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Php Storm](https://img.shields.io/badge/PhpStorm-#000000.svg?style=for-the-badge&logo=PhpStorm&logoColor=white)
+![Php Storm](https://img.shields.io/badge/PhpStorm-FF61F6.svg?style=for-the-badge&logo=PhpStorm&logoColor=000000)
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 
 
