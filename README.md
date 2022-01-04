@@ -6,7 +6,7 @@
   Je m'appelle Pauline, jeune femme motivée qui se lance dans le Développement web. </br>  
   En formation de Mai 2021 à Février 2022 de Conceptrice Développeuse d'Application sur Toulouse 🇫🇷 </br>  
   Des Repository d'apprentissages, testes et divers projets.</br> 
-  Envie d'apprendre, tester et de partager mes connaissances avec les autres.
+  Envie d'apprendre et de partager mes connaissances avec les autres.
 </p>  
 
 <h2>✯ Front end</h2>
