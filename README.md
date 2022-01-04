@@ -69,7 +69,7 @@
 [![codePen](https://img.shields.io/badge/codepen-025E8C?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/linepau31)
 
 [![CV](https://img.shields.io/badge/CV-0ABF53?style=for-the-badge&logo=docusign&logoColor=000000)](https://cvdesignr.com/p/602e4c10419f8)
-[![SiteCV](https://img.shields.io/badge/Site%20CV-FF9E0F?style=for-the-badge&logo=docusign&logoColor=000000)](https://linepau31.github.io/)
+[![SiteCV](https://img.shields.io/badge/Site%20CV-FF9E0F?style=for-the-badge&logo=docusign&logoColor=000000)](https://linepau31.github.io/pauline.marot/)
 
 
 ![Linepau GitHub stats](https://github-readme-stats.vercel.app/api?username=linepau31&show_icons=true&theme=radical)
