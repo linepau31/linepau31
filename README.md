@@ -4,7 +4,7 @@
 
 <p>
   Je m'appelle Pauline, jeune femme motivée qui se lance dans le Développement web. </br>  
-  En formation de Mai 2021 à Février 2022 de Conceptrice Développeuse d'Application sur Toulouse 🇫🇷 </br>  
+  Diplomée depuis Février 2022, Conceptrice Développeuse d'Application sur Toulouse 🇫🇷 </br>  
   Des Repository d'apprentissages, testes et divers projets.</br> 
   Envie d'apprendre et de partager mes connaissances avec les autres.
 </p>  
@@ -16,7 +16,9 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+<!--
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
+-->
 
 <h2> ✯ Back end</h2>
 
